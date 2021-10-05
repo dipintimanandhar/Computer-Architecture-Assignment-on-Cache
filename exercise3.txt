@@ -1,0 +1,7 @@
+Block size	n	Testing naïve transpose	 Testing transpose with blocking (milliseconds)
+(milliseconds)	
+20		100	0.028			 0.034
+20		1000	6.438			 3.79
+20		2000	41.333			 14.5
+20		5000	359.256			 90.366
+20		10000	1720.698		 390.256
